@@ -1,0 +1,13 @@
+{
+	"name": "devop-node-app",
+	"version": "1.0.0",
+	"description": "DevOps - przykładowa aplikacja",
+	"main": "pierwszaapp.js",
+	"scripts": {
+	},
+	"author": "olek bolek",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.15.3"
+	}
+}
